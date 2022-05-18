@@ -1,0 +1,26 @@
+[
+    {
+        "id": "firstName0",
+        "fieldName": "firstName",
+        "stylingClasses": "w-50",
+        "component": "BaseTextInput",
+        "label": "First Name",
+        "validations": {
+            "required": true,
+            "regex": "",
+            "validationTrigger": "blur"
+        }
+    },
+    {
+        "id": "lastName1",
+        "fieldName": "lastName",
+        "stylingClasses": "w-50",
+        "component": "BaseTextInput",
+        "label": "Last Name",
+        "validations": {
+            "required": true,
+            "regex": "",
+            "validationTrigger": "blur"
+        }
+    }
+]

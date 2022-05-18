@@ -1,0 +1,13 @@
+.user-card {
+  width: 300px;
+  &__actions {
+    @apply text-gray-500;
+  }
+  &__content--user-profile {
+    svg {
+      font-size: 125px !important;
+      path {
+      }
+    }
+  }
+}
